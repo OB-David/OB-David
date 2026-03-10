@@ -1,14 +1,16 @@
 # Hi there, I'm Ren Junming! 👋
 
 I'm an undergraduate student from **Fudan University**. 
+
 I just spent my fifth semester (2025, September -- December) as an exchange student at the **University of Edinburgh**.
+
 I major in data science.
 
 ## 🛠️ Tech Stack & Interests
 
 - **Programming Languages:** `Python` , `Solidity`, `SQL`, `Matlab`
 - **Areas of Interest:** Optimization Methods, Blockchain Technology, Artificial Intelligence, System Architecture
-- **Tools & Environments:** Git, uv, Linux, VScode, Graphiviz(.dot)
+- **Tools & Environments:** `Git`, `uv`, `Linux`, `VScode`, `Graphiviz(.dot)`
 
 ## 🔭 Current Projects
 
